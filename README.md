@@ -31,5 +31,5 @@ this repo.
 ## Dashboard Preview
 
 
-![Dashboard](Power BI Dashboard.png)
+![Dashboard](Power_BI_Dashboard.png)
 
